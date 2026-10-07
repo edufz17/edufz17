@@ -1,6 +1,6 @@
 # Eduardo Fernández 
 
-🌐 [Versión en español](README.es.md) | 💼 [Portfolio](https://tu-usuario.github.io)
+🌐 [Versión en español](README.es.md) | 💼 [Portfolio](https://edufz17.github.io/portfolio/)
 
 **Software & Multiplatform Application Developer**  
 Backend-oriented Software Developer with a strong interest in Data Analysis and Data Engineering.
