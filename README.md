@@ -8,7 +8,7 @@ Backend-oriented Software Developer with a strong interest in Data Analysis and 
 ---
 
 ### 💻 About Me
-Software developer with a background in multiplatform application development, specialized in building backend services, consuming REST APIs, and managing relational and NoSQL databases. Although I hold a solid foundation in software development, my true passion lies in data analysis. Driven by a keen interest in engineering and quantitative problem-solving, I continuously expand my skills in data cleaning, manipulation, and processing using **Python** (**Pandas**, **NumPy**), aiming to build data-driven solutions.
+Software developer with a background in multiplatform application development, specialized in building backend services, consuming REST APIs, and managing relational and NoSQL databases. Although I hold a solid foundation in software development, my true passion lies in data analysis. Driven by a genuine interest in engineering and complex problem solving, I continuously expand my skills in data cleaning, manipulation, and processing using **Python** (**Pandas**, **NumPy**), aiming to build data-driven solutions.
 
 ---
 
