@@ -1,27 +1,29 @@
 # Eduardo Fernández Zarza
 
+🌐 [Versión en español](README.es.md)
+
 **Software & Multiplatform Application Developer**  
-Desarrollador de Software orientado al backend y con especial interés en el análisis e ingeniería de datos.
+Backend-oriented Software Developer with a strong interest in Data Analysis and Data Engineering.
 
 ---
 
-### 💻 Sobre mí
-Desarrollador con formación en desarrollo de software multiplataforma, especializado en la creación de servicios backend, consumo de APIs y gestión de bases de datos relacionales y NoSQL. Aunque cuento con una base sólida de desarrollo, mi vocación se orienta hacia el análisis de datos. Guiado por un gran interés en la ingeniería y los números, me enfoco de forma autodidacta en la limpieza, manipulación y tratamiento de datos con Python (Pandas, NumPy), buscando construir soluciones impulsadas por datos.
+### 💻 About Me
+Software developer with a background in multiplatform application development, specialized in building backend services, consuming REST APIs, and managing relational and NoSQL databases. Although I hold a solid foundation in software development, my true passion lies in data analysis. Driven by a keen interest in engineering and quantitative problem-solving, I continuously expand my skills in data cleaning, manipulation, and processing using **Python** (**Pandas**, **NumPy**), aiming to build data-driven solutions.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
-| Categoría | Tecnologías |
+| Category | Technologies |
 | :--- | :--- |
-| **Lenguajes** | Java, Python, SQL, C# |
+| **Languages** | Java, Python, SQL, C# |
 | **Backend & Web** | FastAPI, REST APIs, Web Scraping (BeautifulSoup) |
-| **Bases de Datos** | MySQL / MariaDB, PostgreSQL, MongoDB |
-| **Sistemas & Entornos** | Linux (Ubuntu), Git, Bash |
+| **Databases** | MySQL / MariaDB, PostgreSQL, MongoDB |
+| **Systems & Environments** | Linux (Ubuntu), Git, Bash |
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 
-* **LinkedIn:** www.linkedin.com/in/eduardo-fernandez17
-* **Email:** edufz10@gmail.com
+- **LinkedIn:** [eduardo-fernandez17](https://www.linkedin.com/in/eduardo-fernandez17)
+- **Email:** [edufz10@gmail.com](mailto:edufz10@gmail.com)
