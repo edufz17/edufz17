@@ -6,10 +6,7 @@ Desarrollador de Software orientado al backend y con especial interés en el an�
 ---
 
 ### 💻 Sobre mí
-
-* 🛠️ **Desarrollo Backend & APIs:** Base sólida en diseño orientado a objetos, arquitectura de software y gestión de bases de datos (SQL y NoSQL).
-* 📊 **Análisis & Procesamiento de Datos:** Formación autodidacta orientada al tratamiento y transformación de datos utilizando **Python**, **Pandas** y **NumPy**.
-* 🎯 **Enfoque técnico:** Interesado en construir soluciones eficientes que unan la solidez del desarrollo de software con la extracción de valor a través de los datos.
+Desarrollador con formación en desarrollo de software multiplataforma, especializado en la creación de servicios backend, consumo de APIs y gestión de bases de datos relacionales y NoSQL. Aunque cuento con una base sólida de desarrollo, mi vocación se orienta hacia el análisis de datos. Guiado por un gran interés en la ingeniería y los números, me enfoco de forma autodidacta en la limpieza, manipulación y tratamiento de datos con Python (Pandas, NumPy), buscando construir soluciones impulsadas por datos.
 
 ---
 
