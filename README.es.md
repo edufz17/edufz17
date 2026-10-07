@@ -23,5 +23,5 @@ Desarrollador con formación en desarrollo de software multiplataforma, especial
 
 ### 📬 Contacto
 
-* **LinkedIn:** www.linkedin.com/in/eduardo-fernandez17
-* **Email:** edufz10@gmail.com
+- **LinkedIn:** [eduardo-fernandez17](https://www.linkedin.com/in/eduardo-fernandez17)
+- **Email:** [edufz10@gmail.com](mailto:edufz10@gmail.com)
