@@ -1,4 +1,4 @@
-# Eduardo Fernández Zarza
+# Eduardo Fernández 
 
 🌐 [Versión en español](README.es.md)
 
